@@ -1,0 +1,80 @@
+.hidden{
+    display: none;
+}
+
+body img{
+    object-fit: cover;
+    width: 100%; height: 100%;
+}
+
+.whole {
+    position: relative;
+}
+
+.text {
+    position: absolute;
+    width: 35%;
+    left: 33%;
+    text-align: center;
+}
+
+#clock {
+    font-size: 100px;
+    color:aliceblue;
+    text-shadow: 2px 2px 2px rgb(201, 61, 84);
+}
+
+#input1{
+    width: 300px;
+    height: 50px;
+    font-size: 30px;
+}
+
+#input2 {
+    width: 100px;
+    height: 55px;
+    font-size: 30px;
+    background-color: rgb(216, 175, 235);
+}
+
+#input3{
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+}
+
+#weather{
+    font-size: 22px;
+    font-weight: bold;
+    color:aliceblue;
+    text-shadow: 2px 2px 2px rgb(201, 61, 84);
+    border:1px solid; padding:20px; margin: 50px; background-color: rgba(255, 248, 220, 0.233);
+}
+
+.name {
+    font-size: 50px;
+    text-shadow: 2px 2px 2px rgb(201, 61, 84);
+}
+
+.quote1 {
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+    color:aliceblue;
+    text-shadow: 2px 2px 2px rgb(201, 61, 84);
+}
+
+.quote2 {
+    font-size: 25px;
+    font-style:italic;
+    font-weight: bold;
+    color:aliceblue;
+    text-shadow: 2px 2px 2px rgb(201, 61, 84);
+}
+
+.list {
+    font-size: 17px;
+    font-style:inherit;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px rgb(201, 61, 84);
+}
