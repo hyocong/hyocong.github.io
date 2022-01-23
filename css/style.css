@@ -57,7 +57,7 @@ body img{
 }
 
 .quote1 {
-    font-size: 30px;
+    font-size: 25px;
     font-style: italic;
     font-weight: bold;
     color:aliceblue;
@@ -65,7 +65,7 @@ body img{
 }
 
 .quote2 {
-    font-size: 25px;
+    font-size: 23px;
     font-style:italic;
     font-weight: bold;
     color:aliceblue;
@@ -73,7 +73,7 @@ body img{
 }
 
 .list {
-    font-size: 17px;
+    font-size: 20px;
     font-style:inherit;
     font-weight: bold;
     text-shadow: 2px 2px 2px rgb(201, 61, 84);
